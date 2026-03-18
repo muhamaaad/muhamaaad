@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning to master python 
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me Email (muhamad-18fadel@hotmail.com)
-- 😄 Pronouns: male
 - ⚡Fun fact: If I’m not struggling with code, I’m probably waiting for that one line to magically work... any minute now. 😂💻 #ProgrammerLife #BugSquasher
 
 <!---
