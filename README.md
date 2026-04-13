@@ -30,7 +30,7 @@
 📫 Contact
 
 - Email: [muhamad-18fadel@hotmail.com](mailto:muhamad-18fadel@hotmail.com)
-- LinkedIn: <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhamad-egbaria-8a05101b8)">LinkedIn</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/muhamad-egbaria-8a05101b8">LinkedIn</a>
 
 ---
 
