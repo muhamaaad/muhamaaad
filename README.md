@@ -1,9 +1,41 @@
-- 👋 Hi, I’m @muhamaaad
-- 👀 I’m interested in DevOps field 
-- 🌱 I’m currently learning to master python 
-- 💞️ I’m looking to collaborate on DevOps projects
-- 📫 How to reach me Email (muhamad-18fadel@hotmail.com)
-- ⚡Fun fact: If I’m not struggling with code, I’m probably waiting for that one line to magically work... any minute now. 😂💻 #ProgrammerLife #BugSquasher
+👋 Hi, I'm Muhamad Egbaria
+🎓 Computer Science student at HIT Holon Institute of Technology
+💻 Passionate about **low-level systems, networking, and high-performance software**
+
+---
+
+🚀 About Me
+
+- 🌱 Currently focusing on **C/C++, Linux, and network programming**
+- 🧠 Strong foundation in **Computer Systems (grade: 100)**
+- ⚙️ Interested in **system-level development, networking, and performance optimization**
+- 🔍 Enjoy working close to the hardware and understanding how things really work
+
+---
+
+🛠️ Skills
+
+- C
+- Linux
+- Networking (TCP/IP, sockets, HTTP basics)
+- Python, Bash
+
+🎯 Goals
+
+- Deepen expertise in **networking and system programming**
+- Build **high-performance and low-latency applications**
+- Contribute to real-world **infrastructure and networking systems**
+
+---
+📫 Contact
+
+- Email: [muhamad-18fadel@hotmail.com](mailto:muhamad-18fadel@hotmail.com)
+- LinkedIn: [My_LinkedIn](mailto:www.linkedin.com/in/muhamad-egbaria-8a05101b8)
+  
+---
+
+⚡ Fun Fact
+ Debugging low-level code > everything else 😄
 
 <!---
 muhamaaad/muhamaaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
