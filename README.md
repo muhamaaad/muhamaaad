@@ -29,8 +29,9 @@
 ---
 📫 Contact
 
-- Email: [muhamad-18fadel@hotmail.com](mailto:muhamad-18fadel@hotmail.com)
+- Email: [egm621349@gmail.com](mailto:egm621349@gmail.com)
 - LinkedIn: <a href="https://www.linkedin.com/in/muhamad-egbaria-8a05101b8">LinkedIn</a>
+- website: <a href="https://dulcet-mooncake-5a3e7d.netlify.app">MySite</a>
 
 ---
 
