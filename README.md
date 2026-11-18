@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhamad Egbaria
 
 🎓 B.Sc. Computer Science candidate at HIT Holon Institute of Technology (84 GPA)  
-💻 **Full-Stack AI Engineer** | Building secure microservices, scalable REST APIs, and AI-augmented applications
+💻 **Full-Stack AI Developer ** | Building secure microservices, scalable REST APIs, and AI-augmented applications
 
 ---
 
