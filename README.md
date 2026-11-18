@@ -1,44 +1,42 @@
-👋 Hi, I'm Muhamad Egbaria
-🎓 Computer Science student at HIT Holon Institute of Technology
-💻 Passionate about **low-level systems, networking, and high-performance software**
+# 👋 Hi, I'm Muhamad Egbaria
+
+🎓 B.Sc. Computer Science candidate at HIT Holon Institute of Technology (84 GPA)  
+💻 **Full-Stack AI Engineer** | Building secure microservices, scalable REST APIs, and AI-augmented applications
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
-- 🌱 Currently focusing on **C/C++, Linux, and network programming**
-- 🧠 Strong foundation in **Computer Systems (grade: 100)**
-- ⚙️ Interested in **system-level development, networking, and performance optimization**
-- 🔍 Enjoy working close to the hardware and understanding how things really work
-
----
-
-🛠️ Skills
-
-- C
-- Linux
-- Networking (TCP/IP, sockets, HTTP basics)
-- Python, Bash
-
-🎯 Goals
-
-- Deepen expertise in **networking and system programming**
-- Build **high-performance and low-latency applications**
-- Contribute to real-world **infrastructure and networking systems**
-
----
-📫 Contact
-
-- Email: [egm621349@gmail.com](mailto:egm621349@gmail.com)
-- LinkedIn: <a href="https://www.linkedin.com/in/muhamad-egbaria-8a05101b8">LinkedIn</a>
-- website: <a href="https://dulcet-mooncake-5a3e7d.netlify.app">MySite</a>
+- 🌱 Currently focusing on **Full-Stack development, AI-assisted engineering, and AWS cloud infrastructure**
+- 🧠 Strong academic foundation in **Client-Side Dev (100)**, **Async Server-Side Dev (97)**, and **LLM-Augmented Software Practice (90)**
+- ⚙️ Freelance **Software Developer & Server Administrator** managing client apps, Linux VMs, and secure networks
+- ☁️ **AWS re/Start** graduate (600h cloud & security training) | **CCNA** in progress
 
 ---
 
-⚡ Fun Fact
- Debugging low-level code > everything else 😄
+## 🛠️ Tech Stack
 
-<!---
-muhamaaad/muhamaaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Languages & Frameworks:** JavaScript, Python, C#, .NET, C, Bash, React, Node.js, Express.js
+- **Databases & Cloud:** MongoDB, SQL Express, AWS Cloud
+- **Networking & Testing:** REST APIs, TCP/IP, DNS, DHCP, Jest, Supertest, Wireshark
+- **Tools & DevOps:** GitHub, Jenkins, Tomcat, Jira, Linux
+
+---
+
+## 📌 Featured Projects
+
+- **Secure Web Application** *(C#, .NET, SQL Express, Bootstrap)* — Strict authentication, HMAC+Salt hashing, and mitigation against SQLi, stored XSS, and brute-force attacks.
+- **Cost Manager Microservices Backend** *(Node.js, Express.js, MongoDB, Jest)* — Microservices architecture with REST APIs, request validation, centralized logging, and automated Supertest workflows.
+- **Doctor-Patient Appointment System** *(Python, SQL, Google Maps API)* — Role-based desktop application with appointment management and real-time location tracking.
+
+---
+
+## 📫 Contact
+
+- **Email:** [egm621349@gmail.com](mailto:egm621349@gmail.com)
+- **LinkedIn:** [linkedin.com/in/muhamad-egbaria](https://www.linkedin.com/in/muhamad-egbaria-8a05101b8)
+- **Portfolio:** [MySite](https://dulcet-mooncake-5a3e7d.netlify.app) *(In progress)*
+
+---
+
+⚡ **Fun Fact:** Bridging full-stack architecture with AI workflows and solid Linux fundamentals > everything else 😄
