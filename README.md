@@ -25,8 +25,8 @@
 
 ## 📌 Featured Projects
 
-- **Secure Web Application** *(C#, .NET, SQL Express, Bootstrap)* — Strict authentication, HMAC+Salt hashing, and mitigation against SQLi, stored XSS, and brute-force attacks.
-- **Cost Manager Microservices Backend** *(Node.js, Express.js, MongoDB, Jest)* — Microservices architecture with REST APIs, request validation, centralized logging, and automated Supertest workflows.
+- [**Secure Web Application**](https://github.com/muhamaaad/Comunication_LTD_Final.git) *(C#, .NET, SQL Express, Bootstrap)* — Strict authentication, HMAC+Salt hashing, and mitigation against SQLi, stored XSS, and brute-force attacks.
+- [**Cost Manager Microservices Backend**](https://github.com/muhamaaad/Cost-Manager-RESTful-Web-Services.git) *(Node.js, Express.js, MongoDB, Jest)* — Microservices architecture with REST APIs, request validation, centralized logging, and automated Supertest workflows.
 - [**Doctor-Patient Appointment System**](https://github.com/Project-Management-SCE/PM2022_TEAM_21) *(Python, SQL, Google Maps API)* — Role-based desktop application with appointment management and real-time location tracking.
 
 ---
