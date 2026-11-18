@@ -27,7 +27,7 @@
 
 - **Secure Web Application** *(C#, .NET, SQL Express, Bootstrap)* — Strict authentication, HMAC+Salt hashing, and mitigation against SQLi, stored XSS, and brute-force attacks.
 - **Cost Manager Microservices Backend** *(Node.js, Express.js, MongoDB, Jest)* — Microservices architecture with REST APIs, request validation, centralized logging, and automated Supertest workflows.
-- **Doctor-Patient Appointment System**[link](https://github.com/Project-Management-SCE/PM2022_TEAM_21) *(Python, SQL, Google Maps API)* — Role-based desktop application with appointment management and real-time location tracking.
+- [**Doctor-Patient Appointment System**](https://github.com/Project-Management-SCE/PM2022_TEAM_21) *(Python, SQL, Google Maps API)* — Role-based desktop application with appointment management and real-time location tracking.
 
 ---
 
